@@ -1,2 +1,2 @@
-# my_cv
+# MY CV
 cv
